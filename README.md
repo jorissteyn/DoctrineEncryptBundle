@@ -7,6 +7,13 @@
 [![Total downloads](https://poser.pugx.org/michaeldegroot/doctrine-encrypt-bundle/downloads)](https://packagist.org/packages/michaeldegroot/doctrine-encrypt-bundle) 
 [![Downloads this month](https://poser.pugx.org/michaeldegroot/doctrine-encrypt-bundle/d/monthly)](https://packagist.org/packages/michaeldegroot/doctrine-encrypt-bundle) 
 
+### NOTICE
+
+This is a fork of https://github.com/GiveMeAllYourCats/DoctrineEncryptBundle with the following PRs merged:
+
+https://github.com/GiveMeAllYourCats/DoctrineEncryptBundle/pull/49
+https://github.com/GiveMeAllYourCats/DoctrineEncryptBundle/pull/48
+
 ### Introduction
 
 This is a fork from the original bundle created by ambta which can be found here:
